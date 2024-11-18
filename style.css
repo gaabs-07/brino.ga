@@ -24,7 +24,7 @@ img{
     height: 200px;
 }
 
-.categoria-videos{
+.categoria-vídeos{
     display: flex;
     overflow-x: auto;
     padding-right: 10px;
